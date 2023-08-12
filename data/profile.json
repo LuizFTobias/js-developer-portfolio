@@ -35,7 +35,8 @@
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/git.png"
       }
-  ],
+    ]
+  }
   "professionalExperience": [
     {
       "name": "Arquiteto de software / S3 BANK",
