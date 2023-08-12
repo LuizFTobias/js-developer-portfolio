@@ -38,6 +38,14 @@
     ]
   },
 
+  "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+
   "professionalExperience": [
     {
       "name": "Arquiteto de software / S3 BANK",
