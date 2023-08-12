@@ -1,50 +1,45 @@
 {
-  "name": "Luiz Fernando Tobias",
-  "photo": "https://avatars.githubusercontent.com/u/136760012?v=4",
-  "job": "Estudante",
-  "location": "Curitiba, PR",
-  "phone": "(41) 999623-4045",
-  "email": "lftobias1@gmail.com",
+  "name": "Luiz",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Tech Lead no S3 Bank",
+  "location": "São Paulo - SP",
+  "phone": "(16) 98159-7656",
+  "email": "renanjohannsen@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/js.png"
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/html.png"
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/mysql.png"
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/css.png"
-      },
-      {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/git.png"
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
-
     "softSkills": [
       "Empatia",
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
-    ],
-
+    ]
+  },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
@@ -63,7 +58,6 @@
       "github": true
     }
   ],
-  
   "professionalExperience": [
     {
       "name": "Arquiteto de software / S3 BANK",
@@ -80,6 +74,5 @@
       "period": "2016 - 2021",
       "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
-    ]
-  }
+  ]
 }
