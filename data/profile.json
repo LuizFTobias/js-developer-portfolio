@@ -35,8 +35,7 @@
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/git.png"
       }
-    ]
-  },
+    ],
 
   "softSkills": [
       "Empatia",
@@ -44,7 +43,9 @@
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
-    ],
+    ]
+
+  }
 
   "professionalExperience": [
     {
