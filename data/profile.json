@@ -26,10 +26,6 @@
       {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/LuizFTobias/js-developer-portfolio/main/data/imgs/html.png"
-      },
-      {
-        "name": "MySQL",
-        "logo": "https://github.com/LuizFTobias/js-developer-portfolio/blob/main/data/imgs/mysql.png?raw=true"
       }
     ],
     "softSkills": [
